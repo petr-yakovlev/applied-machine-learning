@@ -1,2 +1,2 @@
-# scoring_models
-Examples of scoring models created
+# example of ML model
+The prediction of concrete compressive strength
